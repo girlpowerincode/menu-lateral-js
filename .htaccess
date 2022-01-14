@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^dashboard/?$ dashboard.php [NC,L]
+RewriteRule ^index/?$ index.php [NC,L]
+RewriteRule ^signup/?$ signup.php [NC,L]
+RewriteRule ^exercise3/?$ exercise3.php [NC,L]
+RewriteRule ^exercise4/?$ exercise4.php [NC,L]
+RewriteRule ^exercise5/?$ exercise5.php [NC,L]
